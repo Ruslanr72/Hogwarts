@@ -89,4 +89,4 @@ public class Main {
             System.out.println("\n" + griffindors[1].getName() + " Is stronger than " + slizerens[2].getName() + ".");
         }
     }
-}
+} 
